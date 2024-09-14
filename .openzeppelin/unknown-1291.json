@@ -500,6 +500,11 @@
       "address": "0xE0c02148b6b6A35030a3453F83FB7174913ef82a",
       "txHash": "0x700255ce4b798d0e74b1b3ecb994146386275a05e4e7b4fb7e3b07a103725e87",
       "kind": "transparent"
+    },
+    {
+      "address": "0xdC36cA121220772a842bC9758c984535067Df5c8",
+      "txHash": "0x34caf5053bc94395c9101e0b49faa13ff34854cae3189f54a9a011a4f2efe6d3",
+      "kind": "transparent"
     }
   ],
   "impls": {
