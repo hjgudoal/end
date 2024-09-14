@@ -480,6 +480,11 @@
       "address": "0xB46A37feE85818EAb03f7dC9b0F1a8D897aA08D2",
       "txHash": "0xeb537901476492c213b8e34005d9a2e56bffd15206c0dd2737c315f1e585d944",
       "kind": "transparent"
+    },
+    {
+      "address": "0x9647aa6D90A5Dde369Ae79C4c7045639c6B1B0eb",
+      "txHash": "0x119ec92ef36e8a7b5ad55d457b9b065cdfb3e5d3d76f87692aa08ed0ce92d624",
+      "kind": "transparent"
     }
   ],
   "impls": {
