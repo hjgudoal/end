@@ -285,6 +285,11 @@
       "address": "0x44b4b0Be073122EDcFaFa5fD5d84016dF59c8ab2",
       "txHash": "0x4917f4c9238b7b0b363d1205311d7441a90c176d62c8c37210d168a00cfd4558",
       "kind": "transparent"
+    },
+    {
+      "address": "0x9bDa3a61c2e78F4DFdbe176343256749475138B3",
+      "txHash": "0x2040ea86776102261b51c7f03e51060c7d8acf4869f1a634486690668bf18382",
+      "kind": "transparent"
     }
   ],
   "impls": {
