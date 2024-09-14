@@ -180,6 +180,16 @@
       "address": "0x349710015621ffe744E732286AD6036698f4D8B2",
       "txHash": "0x1f8ecff730e3d6e0935975ca7e46c41a89577ae0ddab6194e08192cbcf0192d5",
       "kind": "transparent"
+    },
+    {
+      "address": "0x71703BD6C58915B3ebf01Fb0395d4d21a4F54C3f",
+      "txHash": "0x3856845fa1c7de25cd976693736144086acde6091a3605c95bd171a95bb8bc2d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2F3B249b51e97337D2663624A6204c132E5F9784",
+      "txHash": "0x4a3a13dfc6307c58457646bff2c05e978a802e2ae103d802bb2b8361e447222c",
+      "kind": "transparent"
     }
   ],
   "impls": {
