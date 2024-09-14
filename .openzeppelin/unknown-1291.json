@@ -385,6 +385,11 @@
       "address": "0xb4Aea035A2BdF3EfaBD18b5D9097feB80194abEd",
       "txHash": "0x964b1f487797aa3e21ce335fd9ef6de90453520ac72f3700e1d20e0f6202fecf",
       "kind": "transparent"
+    },
+    {
+      "address": "0x1b0a8C20D3f3a561a03ed009740BeF0de737b06b",
+      "txHash": "0x15e595eb0e1f3fefa5bcdad887fdefdbd3cdddc14e1ed431329abf683dc021b2",
+      "kind": "transparent"
     }
   ],
   "impls": {
