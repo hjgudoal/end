@@ -370,6 +370,11 @@
       "address": "0xA89845aCFdb738877fbf9f7E151f9f344C93dE0d",
       "txHash": "0xc5e29de6a94caea6e7777f73bebf97e2860746797bf2aeae1faaa9e9a9ecad3d",
       "kind": "transparent"
+    },
+    {
+      "address": "0x2A30C4332452DEFf9274f8235826bAc51f428F1a",
+      "txHash": "0xc04771a42adf1d73c0e7e397d1c36cf6d5ab4b78bb5fbeef92221fc065537695",
+      "kind": "transparent"
     }
   ],
   "impls": {
