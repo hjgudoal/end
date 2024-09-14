@@ -520,6 +520,11 @@
       "address": "0xc5eEf404E08a99DE25480e5acE103479D4c15B59",
       "txHash": "0x8736d4ebccd7a6fe18288ce0e85fe36ed33e970c08c095cc8927f94c2715db70",
       "kind": "transparent"
+    },
+    {
+      "address": "0x05f229478E39bdfd712773DEDbAD936936a06904",
+      "txHash": "0xf0d9786d725d89c9f01f1c6eb1b03e6e60310c5f3dd06d4d16407f70e6df0d63",
+      "kind": "transparent"
     }
   ],
   "impls": {
