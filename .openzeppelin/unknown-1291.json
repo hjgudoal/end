@@ -560,6 +560,11 @@
       "address": "0x60503Df5B1a9095d0F46F4517Fb25e0870776126",
       "txHash": "0x7dc77f336f0fee8051563fe510a0fe66af2ef3a1fb61c7bae14461a526b486bb",
       "kind": "transparent"
+    },
+    {
+      "address": "0x5b0793826c1c41C08e9B45d96bF3a91fA6F4Ec07",
+      "txHash": "0x9e1cf09f8ea6727baccab4583290cb8c50ec94c0b0e3ca020cb6d54ebf4ec9fa",
+      "kind": "transparent"
     }
   ],
   "impls": {
