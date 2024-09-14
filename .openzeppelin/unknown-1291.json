@@ -340,6 +340,11 @@
       "address": "0x65e9d41aEe1e0D0698D2CE554D5c9Dc797D68899",
       "txHash": "0x5fbdc05307bca100409e8b12fac4e0a93c0ae13e47cc5576c00ada12a4f739b7",
       "kind": "transparent"
+    },
+    {
+      "address": "0x2A5fbCD726DbC81328084105Fc0C8A002597BeBC",
+      "txHash": "0x19615ce69e4d3ddb2487e98421f0cb58f68bb865ccaad460d2197a34612c60a8",
+      "kind": "transparent"
     }
   ],
   "impls": {
