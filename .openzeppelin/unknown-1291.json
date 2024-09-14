@@ -290,6 +290,11 @@
       "address": "0x9bDa3a61c2e78F4DFdbe176343256749475138B3",
       "txHash": "0x2040ea86776102261b51c7f03e51060c7d8acf4869f1a634486690668bf18382",
       "kind": "transparent"
+    },
+    {
+      "address": "0xB6e69c0f3A90b08F2D8ec700487EcA752101d9ca",
+      "txHash": "0xa55c64f2145b78506ffc9ab980b7b472dc8aeda61f8df5aa0cb107fbeb3d75f1",
+      "kind": "transparent"
     }
   ],
   "impls": {
