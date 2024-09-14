@@ -400,6 +400,11 @@
       "address": "0x1C1B2c7A096Ce05d4c7AFDAe3869f73845c0E31A",
       "txHash": "0x4dd79bcdf7dabb0e7e19441099b50c35d0972b1765cee12fcacd096015f539fa",
       "kind": "transparent"
+    },
+    {
+      "address": "0x31810c899f28267d4A675320620ED71cd2C1e975",
+      "txHash": "0xcb2d9bc947b3bb335cc6537bbd1aeba328863e6ca8b67231cb2c76d54d83683a",
+      "kind": "transparent"
     }
   ],
   "impls": {
