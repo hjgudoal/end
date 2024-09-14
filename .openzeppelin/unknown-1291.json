@@ -555,6 +555,11 @@
       "address": "0xDBee2a8aBBDc932fa4fCFec8A4274Ab7D0507df7",
       "txHash": "0x8f4e3df00ffd7bce442cc941011eb6f6bb1b13a9fd57161f6203410e295dde5c",
       "kind": "transparent"
+    },
+    {
+      "address": "0x60503Df5B1a9095d0F46F4517Fb25e0870776126",
+      "txHash": "0x7dc77f336f0fee8051563fe510a0fe66af2ef3a1fb61c7bae14461a526b486bb",
+      "kind": "transparent"
     }
   ],
   "impls": {
