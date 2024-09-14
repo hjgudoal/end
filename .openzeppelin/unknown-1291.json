@@ -420,6 +420,11 @@
       "address": "0xb06266FbC61a361A381A0aCC7eBD87D3cce3906A",
       "txHash": "0xd0e86fab60c8bb3fe340ec3312b92fcc223d79f9b028391c43600b5fd6ee4073",
       "kind": "transparent"
+    },
+    {
+      "address": "0xc811f4B1A4AfEDA3D83FA64A6ABff6100B6c37bd",
+      "txHash": "0x35ca64938396b0ece00ecb067d5689c7f681094c4d8d0fd7cb0227f9d685b7f4",
+      "kind": "transparent"
     }
   ],
   "impls": {
