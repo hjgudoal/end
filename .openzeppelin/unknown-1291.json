@@ -310,6 +310,11 @@
       "address": "0xDCC7a6975a3f59e71d31069f4777B7E3a0A08648",
       "txHash": "0xacd1a17c51eda2c76ce80d89bf406b0b337efc2e368e50fc8268f630c09e0b78",
       "kind": "transparent"
+    },
+    {
+      "address": "0xf8f96c5208D0681E0C356EBc62eE7AB7f9cC1010",
+      "txHash": "0xe782ae58af63c83e5c2e8025a68a75f5ff95ea89a5ed5849144fe09078780fbf",
+      "kind": "transparent"
     }
   ],
   "impls": {
