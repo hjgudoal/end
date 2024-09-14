@@ -360,6 +360,11 @@
       "address": "0xB4C2a2907951C46BFbB6a29E2064534910f11448",
       "txHash": "0x40c68f2160c7c7c9e99c20f433a4850877c5bba953ea5fff88780e1852bdd10e",
       "kind": "transparent"
+    },
+    {
+      "address": "0xCcf2feF1A7D6b3A6C34E51Fc66e19e4DfcdbF1f9",
+      "txHash": "0xd1b936d97403b05f4a9036852a3d9b603462da310990ef45784c297846a80bde",
+      "kind": "transparent"
     }
   ],
   "impls": {
