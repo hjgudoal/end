@@ -250,6 +250,11 @@
       "address": "0xbc7051687CdBdF8AdF418be970A78D7B6Ef64345",
       "txHash": "0x6e5d2911e57e43b4a0b21df9362304468027d39e72bd4b0cef024c3b9dd8a786",
       "kind": "transparent"
+    },
+    {
+      "address": "0x78026296802a8EA7285BCA7798d69308b22ce7c6",
+      "txHash": "0x5504afb48fdd3045585b1e4d6384480429f6b4c5f8b3ff4035105dc2f0c0cbb1",
+      "kind": "transparent"
     }
   ],
   "impls": {
