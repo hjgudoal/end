@@ -330,6 +330,11 @@
       "address": "0xdc39A106c62545A189bC60dC71dfFb04D648276B",
       "txHash": "0x01783ec4787fa548eb8a58d811da5562c56a364e488bcce227a508d2660d6354",
       "kind": "transparent"
+    },
+    {
+      "address": "0x4b4d7864cc4AdA6C14adE00a939F9F6119549315",
+      "txHash": "0x47e53640b221f178e5dce704c37431fc1c02664dc99cc3d22bac7208aafc46b7",
+      "kind": "transparent"
     }
   ],
   "impls": {
