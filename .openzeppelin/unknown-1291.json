@@ -305,6 +305,11 @@
       "address": "0x9f22719E0d6177bA00595847fD480bAa35e529eb",
       "txHash": "0x1e9dfc685daeec7946c7bcff4864e9108e59df1d623beed3aad56e0dd01731d2",
       "kind": "transparent"
+    },
+    {
+      "address": "0xDCC7a6975a3f59e71d31069f4777B7E3a0A08648",
+      "txHash": "0xacd1a17c51eda2c76ce80d89bf406b0b337efc2e368e50fc8268f630c09e0b78",
+      "kind": "transparent"
     }
   ],
   "impls": {
