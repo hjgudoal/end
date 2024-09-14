@@ -580,6 +580,11 @@
       "address": "0x02e574E023C85ad76Dd83af22948c56F230c0c77",
       "txHash": "0x803146bd8edcaccd0d8eea8315149445c2aced238ff8dece437153456138c682",
       "kind": "transparent"
+    },
+    {
+      "address": "0xF73E03818E937CF0dDb1B4CE51d40Dbe4FB17f69",
+      "txHash": "0xac98230eba7bad15b9bce3a0525114f8c1131246250acfcb3f66bf58be223c18",
+      "kind": "transparent"
     }
   ],
   "impls": {
